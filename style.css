@@ -31,7 +31,6 @@ body {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     gap: 80px;
-    border: 1px solid red;
 }
 
 .hole {
@@ -42,4 +41,40 @@ body {
         0 0 5px rgba(0, 0, 0, .5);
     position: relative;
     overflow: hidden;
+}
+
+.hole .mole {
+    width: 70%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    animation: rise .3s ease-out;
+}
+
+@keyframes rise {
+    0% {
+        transform: translateX(-50%) translateY(100%);
+    }
+
+    100% {
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+.cursor {
+    height: 110px;
+    width: 100px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    background-image: url('assets/hammer.png');
+    background-size: 100% 100%;
+    transform: translate(-20%, -20%);
+    transition: transform .1s;
+    pointer-events: none;
+}
+
+.cursor.active {
+    transform: translate(-20%, -20%) rotate(-45deg);
 }
