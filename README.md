@@ -1,2 +1,4 @@
-# Tradicional-wack-a-mole
-Smash the mole with this game created with html, css, JavaScript and love!!
+<p align="center"> 
+  <img src="assets/mole.png" alt="mole" width="80px" height="80px">
+
+<h1 align="center"> Tradicional-wack-a-mole </h1>
