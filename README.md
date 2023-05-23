@@ -29,20 +29,31 @@
 
 <h2 id="about-the-project"> :eyes: Wack a What???</h2>
 
-<p align="justify"> 
+<p align="justify">
+
 The game was created in the 70s by [Bob Cassata](https://www.bobsspaceracers.com/about/index) and today thanks to this [tutorial](https://www.youtube.com/watch?v=b20YueeXwZg&ab_channel=AngleBrace) and a little bit of my imagination, I can present you my version.
+
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2 id="learnt"> :floppy_disk: What I have learnt
+<h2 id="learnt"> :floppy_disk: What I have learnt</h2>
 
-n</h2>
+<p align="justify">
 
-<p align="justify"> 
 <ul>
-<li>[Mousemove event](https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event)</li>
-<li>[How to set audios in Javascript](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)</li>
+<li>
+
+[Mousemove event](https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event)
+
+</li>
+
+<li>
+
+[How to set audios in Javascript](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
+
+</li>
+
 <li>Use addEventListener window</li>
 <br>
  <img align="center" width="400px" height="80px" src="assets/windowAdd.png" alt="window addEventListener"/>
@@ -52,8 +63,10 @@ n</h2>
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="make-it-yours"> :open_hands: What you need to make it yours</h2>
-<p align="justify"> 
+<p align="justify">
+
 It is made with HTML, Css and Javascript so you don't need anything special. You can play directly by clicking on the [link](https://rpg87.github.io/Tradicional-wack-a-mole/), you can fork the project or you can download the entire game. It is up to you.
+
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -68,5 +81,7 @@ It is made with HTML, Css and Javascript so you don't need anything special. You
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="who"> :raising_hand: Who is Raquel</h2>
-<p align= "justify"> I am Raquel, I consider myself a person with a great sense of humor, always eager to learn, a lover of challenges and this combination is what led me to study web development. 
+<p align= "justify">
+ I am Raquel, I consider myself a person with a great sense of humor, always eager to learn, a lover of challenges and this combination is what led me to study web development.
+
 If you want to know more about me or if you have a fun project and you need help we could work together, you can find me [here](https://www.linkedin.com/in/raquel-pe-go/)
