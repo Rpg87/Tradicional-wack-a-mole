@@ -3,19 +3,14 @@
 
 <h1 align="center"> Tradicional-wack-a-mole </h1>
 
-:heart_eyes: <h2>Hello everyone, my name is <strong> Raquel </strong> and it is a pleasure for me that you are reading this. </h2>
-<br></br>
+<h2>Hello everyone, my name is <strong> Raquel </strong> and it is a pleasure for me that you are reading this. </h2>
 
 ---
-
-<br></br>
 
 <p align="center"> 
   <img src="assets/wackmolepc.png" alt="screenshot of the game Wack a Mole" height="450px" width="650">
 </p>
 <br></br>
-
----
 
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 
@@ -35,7 +30,7 @@
 <h2 id="about-the-project"> :eyes: Wack a What???</h2>
 
 <p align="justify"> 
-The game was created in the 70s by  [Bob Cassata](https://www.bobsspaceracers.com/about/index)  and today thanks to this [tutorial](https://www.youtube.com/watch?v=b20YueeXwZg&ab_channel=AngleBrace) and a little bit of my imagination, I can present you my version.
+The game was created in the 70s by  ![Bob Cassata](https://www.bobsspaceracers.com/about/index) and today thanks to this [tutorial](https://www.youtube.com/watch?v=b20YueeXwZg&ab_channel=AngleBrace) and a little bit of my imagination, I can present you my version.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
